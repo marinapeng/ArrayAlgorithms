@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArrayAlgorithms
+comment0.text=\n\ Complete\ at\ least\ the\ first\ 4\ methods\ below.\ Test\ them\ in\ the\ main\ method\n\ Try\ the\ Challenges\ too\!\n\n\ @author\ Ben\ Smith\n\ @version\ (2/2021)\n
+comment1.params=arr
+comment1.target=double\ average(int[])
+comment1.text=\n\ Average\ method\ to\ calculate\ an\ average\n\ @\ param\ int[]\ array\ of\ int\ values.\n\ @return\ double\ average\ of\ int\ values\ in\ the\ array.\n
+comment2.params=arr
+comment2.target=double\ minimum(double[])
+comment2.text=\n\ Write\ the\ following\ methods\:\n\ public\ static\ double\ minimum(double[]\ arr)\n\ \ \ \ \ \ to\ find\ minimum\ value\ in\ an\ array\n\ public\ static\ boolean\ findString(String[]\ words,\ String\ target)\n\ \ \ \ \ \ Search\ for\ a\ particular\ string\ in\ an\ array\ of\ strings\n\ public\ static\ PotatoHead[]\ hasMoustache(PotatoHead[]\ taters)\n\ \ \ \ \ \ returns\ an\ array\ of\ Potatoheads\ from\ the\ original\ array\n\ \ \ \ \ \ that\ have\ moustaches.\ see\ Potatohead\ class\ in\ the\ project.\n\ public\ static\ String\ bigRect(Rectangle[]\ rects)\n\ \ \ \ \ \ given\ an\ array\ of\ Rectangle\ objects,\ finds\ the\ one\ with\ the\n\ \ \ \ \ \ largest\ area,\ and\ returns\ the\ toString()\ for\ that\ rectangle.\n\ CHALLENGES\:\ optional\n\ public\ static\ boolean\ hasDuplicates(int[]\ arr)\n\ \ \ \ \ \ Determine\ the\ presence\ or\ absence\ of\ duplicate\ elements\ in\ an\ int[]\n\ public\ static\ int\ numPotatoesWithArms(PotatoHead[]\ potatoes,\ int\ numArms)\n\ \ \ \ \ \ Determine\ the\ number\ of\ elements\ meeting\ specific\ criteria\n\ \ \ \ \ \ in\ this\ case,\ number\ of\ potatoheads\ in\ an\ array\ with\ a\ \n\ \ \ \ \ \ specified\ number\ of\ arms.\n\ public\ static\ void\ shiftLeft(\ int[]\ arr\ )\n\ \ \ \ \ \ Shift\ elements\ in\ an\ int[]\ to\ the\ left\n\ \ \ \ \ \ placing\ the\ elelment\ in\ index\ 0\ to\ last\ index.\n\ \ \ \ \ \ alter\ the\ original\ array,\ do\ not\ return\ a\ new\ one.\n\ public\ static\ void\ reverse(\ rectangle[]\ rects\ )\n\ \ \ \ \ \ Reverse\ the\ order\ of\ the\ elements\ in\ the\ array.\n
+comment3.params=words\ target
+comment3.target=boolean\ findString(java.lang.String[],\ java.lang.String)
+comment4.params=taters
+comment4.target=PotatoHead[]\ hasMoustache(PotatoHead[])
+comment5.params=rects
+comment5.target=java.lang.String\ bigRect(Rectangle[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
